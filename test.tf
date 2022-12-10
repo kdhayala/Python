@@ -1,1 +1,1 @@
-resource "or" "" {}
+resource "aws_alb" "" {}
