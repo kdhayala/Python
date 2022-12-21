@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learning-Shell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shell-scripting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Terraform-learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/push" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/roboshop-shell-script" vcs="Git" />
+  </component>
+</project>
