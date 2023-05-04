@@ -115,3 +115,33 @@ High priority variable                                                   Low pri
 
 -var                   *.auto.tfvars                 terraform.tfvars     SHELL,ENV,VARS
 -var-file
+
+
+Terraform commands:
+
+Terraform validate
+terraform fmt -->  changes in the configuration will show
+terraform show - will state file
+terraform provide - print provider NAME
+terraform output - print output variables
+terraform refresh - refresh real world infrastructure (ONLY MODIFY STATE FILE)
+terraform graph - to view graph format (once configurstion dir ready)
+
+vi terraform.tfstate
+
+terraform state show aws_s3_bucket.cerberus-finance
+
+terraform state MV [options]  SOURCE DESTIANTION
+SAME FILE AS WELL DIFFERENT FILE
+
+
+terraform state pull -- download state file locally
+
+terraform state rm ADDRESS - resouce removed from configurstion
+
+terraform state push PATH
+
+
+
+
+
