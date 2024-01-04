@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Learning-Shell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Python" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Terraform-learning" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/push" vcs="Git" />
