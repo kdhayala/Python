@@ -30,3 +30,26 @@ else:
         print("password must contains numbers")
     else:
         print("Uername and password are valid")
+
+
+///sample outout
+== RESTART: C:/Users/kumar/AppData/Local/Programs/Python/Python312/password.py =
+Enter the user name:kumar
+Enter the password:kumar@
+password must contains numbers
+
+== RESTART: C:/Users/kumar/AppData/Local/Programs/Python/Python312/password.py =
+Enter the user name:kumar
+Enter the password:kuma1@
+Uername and password are valid # wrong functions
+
+== RESTART: C:/Users/kumar/AppData/Local/Programs/Python/Python312/password.py =
+Enter the user name:Kumar
+Enter the password:kuma1@
+Password must be 8 characters
+
+== RESTART: C:/Users/kumar/AppData/Local/Programs/Python/Python312/password.py =
+Enter the user name:kumar
+Enter the password:kuma@1rt
+Uername and password are valid
+///
